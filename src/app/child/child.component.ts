@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-child',
   template: `
     <p>
-      child works!
+      child works I am child one!
     </p>
   `,
   styles: []
